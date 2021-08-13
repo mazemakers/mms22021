@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":false,"name":"MAP001","order":2,"parentId":0,"scrollX":2002,"scrollY":1296},
+{"id":2,"expanded":true,"name":"Story Map","order":1,"parentId":0,"scrollX":1553.3333333333333,"scrollY":1333.3333333333333},
+{"id":3,"expanded":false,"name":"Weapons Shop","order":3,"parentId":0,"scrollX":2184,"scrollY":1378.909090909091},
+{"id":4,"expanded":false,"name":"Items Shop","order":4,"parentId":0,"scrollX":546,"scrollY":344.72727272727275},
+{"id":5,"expanded":false,"name":"Armors Shop","order":5,"parentId":0,"scrollX":0,"scrollY":0}
+]

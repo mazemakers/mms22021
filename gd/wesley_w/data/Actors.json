@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"arc","characterIndex":0,"characterName":"arc","classId":9,"equips":[51,37,46,101,0],"faceIndex":0,"faceName":"arc","traits":[{"code":41,"dataId":1,"value":1},{"code":31,"dataId":8,"value":1},{"code":11,"dataId":1,"value":1},{"code":51,"dataId":12,"value":1},{"code":52,"dataId":6,"value":1}],"initialLevel":23,"maxLevel":99,"name":"arc","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_2","characterIndex":1,"characterName":"Actor1","classId":2,"equips":[11,43,70,101,99],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":7,"maxLevel":99,"name":"Priscilla","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,51,56,101,76],"faceIndex":6,"faceName":"Actor2","traits":[{"code":52,"dataId":1,"value":1},{"code":55,"dataId":1,"value":1}],"initialLevel":9,"maxLevel":99,"name":"Gale","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":10,"equips":[5,37,46,101,75],"faceIndex":4,"faceName":"Actor1","traits":[{"code":52,"dataId":1,"value":1}],"initialLevel":8,"maxLevel":99,"name":"ace","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Actor3_7","characterIndex":6,"characterName":"Actor3","classId":6,"equips":[51,43,57,11,80],"faceIndex":6,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"trent","nickname":"","note":"","profile":""}
+]

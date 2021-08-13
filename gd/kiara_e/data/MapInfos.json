@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":true,"name":"House","order":1,"parentId":0,"scrollX":456.8,"scrollY":321.2},
+{"id":2,"expanded":false,"name":"Maze","order":6,"parentId":0,"scrollX":1544,"scrollY":940},
+{"id":3,"expanded":false,"name":"Outside","order":3,"parentId":0,"scrollX":507.55555555555554,"scrollY":325.77777777777777},
+{"id":4,"expanded":false,"name":"Beach","order":4,"parentId":0,"scrollX":456.8,"scrollY":285.2},
+{"id":5,"expanded":false,"name":"Inside the tent","order":5,"parentId":0,"scrollX":507.55555555555554,"scrollY":313.3333333333333},
+{"id":6,"expanded":false,"name":"Basement","order":2,"parentId":1,"scrollX":456.8,"scrollY":330.8},
+{"id":7,"expanded":false,"name":"bjvghmv","order":7,"parentId":0,"scrollX":507.55555555555554,"scrollY":313.3333333333333}
+]

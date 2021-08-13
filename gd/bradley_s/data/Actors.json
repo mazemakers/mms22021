@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"Jason","characterIndex":0,"characterName":"Jason","classId":1,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"Jason","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jason","nickname":"JJ","note":"","profile":""},
+{"id":2,"battlerName":"Ogre","characterIndex":0,"characterName":"Ogre","classId":5,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"Ogre","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ogre","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":3,"equips":[3,8,0,3,4],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Riley","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Skel","characterIndex":0,"characterName":"Skel","classId":5,"equips":[5,6,7,5,4],"faceIndex":0,"faceName":"Skel","traits":[],"initialLevel":10,"maxLevel":99,"name":"Skelotor","nickname":"Skel","note":"","profile":""},
+{"id":5,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":1,"equips":[1,6,2,3,4],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":18,"maxLevel":99,"name":"Rob","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Jason_Dad","characterIndex":0,"characterName":"Jason_Dad","classId":1,"equips":[1,6,2,3,4],"faceIndex":0,"faceName":"Jason_Dad","traits":[],"initialLevel":18,"maxLevel":99,"name":"Jacob","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"Jason_Mom","characterIndex":0,"characterName":"Jason_Mom","classId":4,"equips":[3,8,2,3,4],"faceIndex":0,"faceName":"Jason_Mom","traits":[{"code":21,"dataId":0,"value":1.1}],"initialLevel":18,"maxLevel":99,"name":"Jane","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"Riley_Mom","characterIndex":0,"characterName":"Riley_Mom","classId":1,"equips":[1,6,2,3,4],"faceIndex":0,"faceName":"Riley_Mom","traits":[],"initialLevel":18,"maxLevel":99,"name":"Hailey","nickname":"","note":"","profile":""}
+]

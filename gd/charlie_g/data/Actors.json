@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"Char-battle","characterIndex":0,"characterName":"Char-walk","classId":5,"equips":[1,33,0,0,0],"faceIndex":0,"faceName":"Char-face","traits":[],"initialLevel":1,"maxLevel":49,"name":"Jamie","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":2,"equips":[1,0,0,9,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":4,"maxLevel":99,"name":"Alex","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor1_4","characterIndex":5,"characterName":"Actor3","classId":8,"equips":[31,0,65,5,0],"faceIndex":5,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Hillary","nickname":"","note":"","profile":""}
+]

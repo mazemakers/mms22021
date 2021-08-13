@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.banner {
+	vertical-align: top;
+	top: 30px;
+	position: absolute;
+}
+* {
+	font-family: Arial;
+}
+#hi {
+	color:blue
+}
+
+#fun {
+	color:aqua
+}
+
+#hi2 {
+	color:blue
+}
+
+.bottle {
+	vertical-align: bottom;
+	position: absolute;
+	bottom: 200px
+}
+
+

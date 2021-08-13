@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Donating info</title>
+<style>
+	#chimpImg{
+		position:absolute;
+		display: block;
+		left:52%;
+		top:5%;
+	}	
+</style>
+</head>
+
+<body>
+	<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value=""><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="">
+  <br>
+  <label for="phoneNum">Phone number:</label> 
+  <img src="../Chimp.jpg" alt="" width="509.4" height="339"/ id="chimpImg"><br>
+  <input type="text" id ="phNum" name="phnum">
+  <br>
+  <label for="email">Email:</label><br>
+  <input type="email" id="email" name="email">
+  <br>
+  <label for="creditCard">Credit Card:</label><br>
+  <input type="credit" id="credit" name="credit"><br>
+  <input type="submit" value="Submit">
+</form> 
+</body>
+</html>

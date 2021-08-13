@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/* CSS Document */
+
+a:hover {
+	color:cyan
+}
+form:disabled {
+	color:grey
+}
+button {
+	color:white
+}
+button {
+	background: 
+}
+form:active {
+	color:blue
+}
+form {
+	color:blue
+}
+td {
+	color:white
+}
+tr {
+	color:white
+}
+background {
+	color:black
+}
+
+h1 {
+	color:maroon
+}
+
+*{
+ background-color: black
+}
+
+td {
+	border: darkblue thick solid
+}
+tr {
+	border: darkblue thick solid
+}
+a {
+	color: blue
+}
+input {
+	color: white
+}
+p {
+	color:white
+}

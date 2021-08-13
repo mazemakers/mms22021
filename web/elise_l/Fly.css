@@ -1,0 +1,118 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.body {
+	background-image: url("Photos/Flying person.jpg");
+	background-repeat: no-repeat;
+	background-position: 50% 0%
+}
+
+.heading {
+	font-family: "Arial";
+}
+
+.bodytext {
+	font-family: Gowun Dodum
+}
+.bodytext1 {
+	font-family: "Gowun Dodum";
+    text-align: right}
+
+.button {
+	width: 385px;
+	height: 130px;
+	background-image: url("Photos/Button1 copy.png");
+	border: none;
+	background-color: transparent;
+	display: block;
+	align: center;
+	position: absolute;
+	left: 33%
+	
+}
+
+.button:hover {
+	background-image: url("Photos/Button2 copy.png");
+}
+.topnav {
+  top: 0px;
+  font-family: Cambria, "Arial";
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #25C240;
+  color: white;
+}
+
+.broomstickbutton {
+	font-family: Gowun Dodum;
+	text-align: right;
+	
+}
+
+
+#hello{
+	left: 500px;
+	position: absolute;
+	vertical-align: top;
+}
+h1{
+	color:#39ff14;
+}
+h2{
+	color:#00ccff;
+	text-decoration: underline;
+	transform: rotate(10deg);
+	transform-origin: top;
+}
+
+
+#skysweeptext {
+	font-family: "Gowun Dodum";
+}
+
+#stuff {
+	padding-top: 20px;
+	height: 300px;
+}
+
+#jds{
+	font-family: "Gowun Dodum"
+}
+
+.buybroom {
+    width: 335px;
+	height: 165px;
+	background-image: url("Photos/SSBuy.png");
+	border: none;
+	background-color: transparent;
+	display: block;
+	align: left top;
+	top: 130px;
+	position: absolute;
+	background-repeat: no-repeat;
+}
+
+.buybroom:hover {
+	background-image: url("Photos/SSHover.png")
+}

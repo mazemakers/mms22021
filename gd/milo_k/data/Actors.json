@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Reid","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_5","characterIndex":1,"characterName":"People1","classId":2,"equips":[7,0,0,9,0],"faceIndex":1,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"amalia","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor1_3","characterIndex":0,"characterName":"People1","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"theo","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":7,"characterName":"People2","classId":4,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"farosh","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":7,"characterName":"Nature","classId":9,"equips":[10,0,0,0,0],"faceIndex":7,"faceName":"Nature","traits":[],"initialLevel":60,"maxLevel":99,"name":"godess","nickname":"","note":"","profile":""}
+]

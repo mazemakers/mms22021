@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+*{
+	background-color: black;
+}
+table, td, th {
+  border: 2px solid green;
+	
+
+	
+}
+a {
+	text-decoration: none;
+}
+table, td {
+	color: limegreen;
+}
+
+th {
+	color: red;
+}
+
+h2 {
+	color: lightcoral;
+}
+
+* {
+	border: 1px black
+}

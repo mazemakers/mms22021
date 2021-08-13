@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":false,"name":"camp","order":2,"parentId":0,"scrollX":812.5714285714286,"scrollY":555.4285714285714},
+{"id":2,"expanded":false,"name":"inside_cabin","order":1,"parentId":0,"scrollX":812.5714285714286,"scrollY":555.4285714285714},
+{"id":3,"expanded":true,"name":"forest_path","order":3,"parentId":0,"scrollX":812.5714285714286,"scrollY":555.4285714285714},
+{"id":4,"expanded":false,"name":"merchant_camp","order":4,"parentId":0,"scrollX":0,"scrollY":0},
+{"id":5,"expanded":false,"name":"inside_cabin_2","order":6,"parentId":0,"scrollX":0,"scrollY":0},
+{"id":6,"expanded":true,"name":"camp_2","order":5,"parentId":0,"scrollX":826.2857142857142,"scrollY":555.4285714285714},
+{"id":7,"expanded":true,"name":"camp_3","order":7,"parentId":0,"scrollX":812.5714285714286,"scrollY":555.4285714285714},
+{"id":8,"expanded":true,"name":"forest_path_2","order":8,"parentId":0,"scrollX":826.2857142857142,"scrollY":644.5714285714286},
+{"id":9,"expanded":false,"name":"dylans_game_2","order":9,"parentId":0,"scrollX":812.5714285714286,"scrollY":555.4285714285714}
+]
